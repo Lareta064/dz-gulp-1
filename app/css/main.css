@@ -1,2 +1,6 @@
 body {
-  color: green; }
+  color: #1b1b1b;
+  font-size: 24px;
+  font-weight: 700;
+  background-color: yellow;
+}
